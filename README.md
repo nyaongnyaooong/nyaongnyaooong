@@ -1,10 +1,12 @@
 <div id='start' />
 <div align='center'>
-  <h2>🌱 Planning to learn</h2>
+  <h2>🌱 Planning or Hope to learn</h2>
 </div>
 <div align='center'>
-  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
 </div>
 
 
@@ -32,6 +34,10 @@
 </div>
 <div id='end' />
 <!--
+뱃지 아이콘 링크
+https://simpleicons.org/
+
+
 ### Hi there 👋
 **nyaongnyaooong/nyaongnyaooong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
