@@ -1,19 +1,6 @@
-<div id='start' />
-<div align='center'>
-  <h2>🌱 Planning or Hope to learn</h2>
-</div>
-<div align='center'>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
-</div>
-
-
 <div align='center'>
   <h2>⚡ Stacks</h2>
 </div>
-
 <div align='center'>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white">
@@ -32,7 +19,17 @@
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style==flat-square&logo=python&logoColor=white">
 </div>
-<div id='end' />
+<br>
+<div align='center'>
+  <h2>🌱 Planning or Hope to learn</h2>
+</div>
+<div align='center'>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white">
+</div>
+
 <!--
 뱃지 아이콘 링크
 https://simpleicons.org/
